@@ -24,4 +24,5 @@ Packer Detector is a security tool designed to identify and analyze executable f
 2. Ensure YARA is installed and accessible (default path: `E:\NT230\coursework\yara-v4.5.2-2326-win64\yara64.exe`)
 3. Install required Python packages:
    ```bash
-   pip install ttkbootstrap pillow```
+   pip install ttkbootstrap pillow
+   ```
