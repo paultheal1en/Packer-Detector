@@ -1,0 +1,81 @@
+[
+    {
+        "name": "beroexepacker",
+        "samples": [
+            "bep_accesschk.exe",
+            "bep_AccessEnum.exe",
+            "bep_ADInsight.exe",
+            "bep_Autoruns.exe",
+            "bep_autorunsc.exe",
+            "bep_Bginfo.exe",
+            "bep_diskext.exe",
+            "bep_TaskSchedulerView.exe",
+            "bep_Tcpvcon.exe"
+        ]
+    },
+    {
+        "name": "exe32pack",
+        "samples": [
+            "exepacked_AltStreamDump.exe",
+            "exepacked_avs2yuv_x86.exe",
+            "exepacked_cvtres.exe",
+            "exepacked_dat2file.exe",
+            "exepacked_DocFetcher-256.exe",
+            "exepacked_DocFetcher-512.exe",
+            "exepacked_DocFetcher-768.exe",
+            "exepacked_DocFetcher.exe",
+            "exepacked_OneLoupe.exe",
+            "exepacked_WinList.exe"
+        ]
+    },
+    {
+        "name": "jdpack",
+        "samples": [
+            "jdpack_7z.exe",
+            "jdpack_7za.exe",
+            "jdpack_Cacheset.exe",
+            "jdpack_PEViewer.exe",
+            "jdpack_WinAudit.exe",
+            "UnPackMe_JDPack_1.01.exe"
+        ]
+    },
+    {
+        "name": "neolite",
+        "samples": [
+            "neo_AccessEnum.exe",
+            "neo_ADExplorer.exe",
+            "neo_ADInsight.exe",
+            "neo_al.exe",
+            "neo_arh.exe",
+            "neo_Autoruns.exe",
+            "neo_autorunsc.exe",
+            "neo_Bginfo.exe",
+            "neo_Clockres.exe",
+            "neo_Contig.exe",
+            "neo_Coreinfo.exe",
+            "neo_diskext.exe",
+            "neo_Diskmon.exe",
+            "neo_du.exe",
+            "neo_Winobj.exe"
+        ]
+    },
+    {
+        "name": "Packman",
+        "samples": [
+            "packman_ADExplorer.exe",
+            "packman_adrestore.exe",
+            "packman_Cacheset.exe",
+            "packman_md5v11.exe",
+            "packman_md5v11026.exe",
+            "packman_md5v11027.exe",
+            "packman_md5v12005.exe",
+            "packman_PEview.exe",
+            "packman_PEViewer.exe",
+            "packman_sysexp.exe",
+            "packman_TaskSchedulerView.exe",
+            "packman_Tcpvcon.exe",
+            "UnPackMe_Packman1.0.a.exe",
+            "UnPackMe_Packman1.0.b.exe"
+        ]
+    }
+]

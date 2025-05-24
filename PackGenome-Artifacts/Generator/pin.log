@@ -1,0 +1,5 @@
+Pin: pin-3.13-98189-60a6ef199
+Copyright 2002-2019 Intel Corporation.
+E:  SYSCALL_INSPECTOR: NTDLL module is rebased
+A:  source\pin\base_w\ipc_server_windows.cpp: LEVEL_BASE::StartServer: 2216: assertion failed: res == TRUE
+
