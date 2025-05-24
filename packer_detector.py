@@ -36,6 +36,11 @@ class PackerDetectorApp:
         self.root.geometry("900x650")
         self.root.minsize(800, 600)
         
+        # Thêm icon cho cửa sổ ứng dụng
+        icon_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "icon.ico")
+        if os.path.exists(icon_path):
+            self.root.iconbitmap(icon_path)
+        
         # Đường dẫn đến yara64.exe
         self.yara_path = "E:\\NT230\\coursework\\yara-v4.5.2-2326-win64\\yara64.exe"
         self.rule_path = ""

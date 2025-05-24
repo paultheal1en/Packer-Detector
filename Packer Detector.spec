@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['e:\\NT230\\coursework\\packer_detector\\packer_detector.py'],
+    ['packer_detector.py'],
     pathex=[],
     binaries=[],
     datas=[],
