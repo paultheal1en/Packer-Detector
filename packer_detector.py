@@ -1,6 +1,7 @@
 import os
 import subprocess
 import tkinter as tk
+import sys  
 from tkinter import filedialog, messagebox, scrolledtext
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
@@ -37,9 +38,28 @@ class PackerDetectorApp:
         self.root.minsize(800, 600)
         
         # Thêm icon cho cửa sổ ứng dụng
-        icon_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "icon.ico")
-        if os.path.exists(icon_path):
-            self.root.iconbitmap(icon_path)
+        try:
+            # Xác định đường dẫn gốc của ứng dụng
+            if getattr(sys, 'frozen', False):
+                # Nếu đang chạy từ file exe (đã đóng gói)
+                application_path = os.path.dirname(sys.executable)
+                print(f"Đang chạy từ exe, đường dẫn: {application_path}")
+            else:
+                # Nếu đang chạy từ mã nguồn
+                application_path = os.path.dirname(os.path.abspath(__file__))
+                print(f"Đang chạy từ mã nguồn, đường dẫn: {application_path}")
+                
+            icon_path = os.path.join(application_path, "icon.ico")
+            print(f"Đường dẫn icon: {icon_path}")
+            print(f"File icon tồn tại: {os.path.exists(icon_path)}")
+            
+            if os.path.exists(icon_path):
+                self.root.iconbitmap(icon_path)
+                print("Đã thiết lập icon thành công")
+            else:
+                print(f"Không tìm thấy file icon tại: {icon_path}")
+        except Exception as e:
+            print(f"Lỗi khi thiết lập icon: {str(e)}")
         
         # Đường dẫn đến yara64.exe
         self.yara_path = "E:\\NT230\\coursework\\yara-v4.5.2-2326-win64\\yara64.exe"
@@ -667,3 +687,10 @@ if __name__ == "__main__":
     root = ttk.Window(themename="darkly")
     app = PackerDetectorApp(root)
     root.mainloop()
+
+# Thêm ngay sau dòng self.root = root
+try:
+    icon_img = ImageTk.PhotoImage(file=os.path.join(os.path.dirname(os.path.abspath(__file__)), "icon.ico"))
+    self.root.iconphoto(True, icon_img)
+except Exception as e:
+    print(f"Lỗi khi thiết lập icon (phương pháp thay thế): {str(e)}")

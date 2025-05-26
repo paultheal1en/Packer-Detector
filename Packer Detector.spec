@@ -1,11 +1,12 @@
 # -*- mode: python ; coding: utf-8 -*-
+import os
 
 
 a = Analysis(
     ['packer_detector.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[(os.path.abspath("icon.ico"), ".")],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,5 +36,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['icon.ico'],
+    icon=[os.path.abspath("icon.ico")],
 )

@@ -1,0 +1,480 @@
+------------------------------
+2025-05-22 17:01:35.734683
+[+]upx
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:1.97
+artificial.yarc
+	FPR:100
+	FNR:0
+	TDR:100
+	time:6.49
+autoyara_accessible.yarc
+	FPR:22.7
+	FNR:68
+	TDR:41.1
+	time:0.86
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:355.06
+
+------------------------------
+2025-05-22 17:08:20.922965
+[+]armadillo
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:13.8
+artificial.yarc
+	FPR:79.3
+	FNR:6.29
+	TDR:94.1
+	time:30.61
+autoyara_accessible.yarc
+	FPR:100
+	FNR:42.3
+	TDR:100
+	time:4.66
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:230.18
+
+------------------------------
+2025-05-22 17:12:12.232150
+[+]mpress
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:0.23
+artificial.yarc
+	FPR:100
+	FNR:0
+	TDR:100
+	time:0.63
+autoyara_accessible.yarc
+	FPR:38.8
+	FNR:95.9
+	TDR:38.8
+	time:0.1
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:22.62
+
+------------------------------
+2025-05-22 17:12:53.653304
+[+]pecompact
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:4.05
+artificial.yarc
+	FPR:91.4
+	FNR:0
+	TDR:100
+	time:11.69
+autoyara_accessible.yarc
+	FPR:18.5
+	FNR:86.9
+	TDR:24.7
+	time:1.82
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:560.31
+
+------------------------------
+2025-05-22 17:22:20.878791
+[+]aspack
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:1.51
+artificial.yarc
+	FPR:100
+	FNR:0
+	TDR:100
+	time:4.06
+autoyara_accessible.yarc
+	FPR:19.5
+	FNR:70.7
+	TDR:40.5
+	time:0.61
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:214.23
+
+------------------------------
+2025-05-22 17:26:41.294394
+[+]vmprotect
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:14.18
+artificial.yarc
+	FPR:15.9
+	FNR:0
+	TDR:100
+	time:25.88
+autoyara_accessible.yarc
+	FPR:19
+	FNR:88.7
+	TDR:19.3
+	time:5.78
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:168.36
+
+------------------------------
+2025-05-22 17:29:30.599604
+[+]fsg
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:0.18
+artificial.yarc
+	FPR:100
+	FNR:0
+	TDR:100
+	time:0.54
+autoyara_accessible.yarc
+	FPR:19
+	FNR:88.5
+	TDR:19.5
+	time:0.08
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:13.29
+
+------------------------------
+2025-05-22 17:29:49.165459
+[+]obsidium
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:1.74
+artificial.yarc
+	FPR:1.82
+	FNR:100
+	TDR:1.82
+	time:2.89
+autoyara_accessible.yarc
+	FPR:17.1
+	FNR:88.9
+	TDR:19.1
+	time:0.57
+DIE
+	FPR:0
+	FNR:9.3
+	TDR:90.7
+	time:134.19
+
+------------------------------
+2025-05-22 17:32:06.808830
+[+]petite
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:0.87
+artificial.yarc
+	FPR:3.03
+	FNR:0
+	TDR:100
+	time:2.24
+autoyara_accessible.yarc
+	FPR:19.6
+	FNR:98.7
+	TDR:20.9
+	time:0.24
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:89.33
+
+------------------------------
+2025-05-22 17:33:37.160907
+[+]kkrunchy
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:0.22
+artificial.yarc
+	FPR:2.33
+	FNR:1.95
+	TDR:98.1
+	time:0.61
+autoyara_accessible.yarc
+	FPR:31.9
+	FNR:73.5
+	TDR:40.5
+	time:0.1
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:21.64
+
+------------------------------
+2025-05-22 17:34:01.939651
+[+]mew
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:0.71
+artificial.yarc
+	FPR:1.25
+	FNR:0
+	TDR:100
+	time:2.06
+autoyara_accessible.yarc
+	FPR:0.333
+	FNR:0
+	TDR:100
+	time:0.23
+DIE
+	FPR:0
+	FNR:0.5
+	TDR:99.5
+	time:109.13
+
+------------------------------
+2025-05-22 17:35:56.189747
+[+]nspack
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:1.25
+artificial.yarc
+	FPR:71.8
+	FNR:0
+	TDR:100
+	time:3.33
+autoyara_accessible.yarc
+	FPR:20.3
+	FNR:90.3
+	TDR:20.3
+	time:0.37
+DIE
+	FPR:21.1
+	FNR:61.4
+	TDR:59.7
+	time:154.62
+
+------------------------------
+2025-05-22 17:39:39.915578
+[+]themida
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:17.92
+artificial.yarc
+	FPR:10.7
+	FNR:35.8
+	TDR:66.4
+	time:39.07
+autoyara_accessible.yarc
+	FPR:19.5
+	FNR:67.5
+	TDR:42.3
+	time:11.8
+DIE
+	FPR:5.33
+	FNR:0
+	TDR:100
+	time:304.27
+
+------------------------------
+2025-05-22 17:45:01.671522
+[+]acprotect
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:6.35
+artificial.yarc
+	FPR:98.6
+	FNR:0
+	TDR:100
+	time:9.18
+autoyara_accessible.yarc
+	FPR:19.6
+	FNR:67.3
+	TDR:46.2
+	time:1.31
+DIE
+	FPR:21.6
+	FNR:0
+	TDR:100
+	time:246.72
+
+------------------------------
+2025-05-22 17:49:14.529041
+[+]zprotect
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:1.57
+artificial.yarc
+	FPR:5.08
+	FNR:24.9
+	TDR:76.5
+	time:3.67
+autoyara_accessible.yarc
+	FPR:19.2
+	FNR:17.8
+	TDR:85.2
+	time:0.6
+DIE
+	FPR:0.0833
+	FNR:0
+	TDR:100
+	time:108.01
+
+------------------------------
+2025-05-22 17:51:53.209075
+[+]winlicense
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:15.54
+artificial.yarc
+	FPR:19.7
+	FNR:0
+	TDR:100
+	time:29.99
+autoyara_accessible.yarc
+	FPR:19.5
+	FNR:78.1
+	TDR:37.4
+	time:4.55
+DIE
+	FPR:8.28
+	FNR:0
+	TDR:100
+	time:149.47
+
+------------------------------
+2025-05-22 17:55:22.992714
+[+]enigma
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:24.32
+artificial.yarc
+	FPR:100
+	FNR:0
+	TDR:100
+	time:30.33
+autoyara_accessible.yarc
+	FPR:8.43
+	FNR:0
+	TDR:100
+	time:4.56
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:320.97
+
+------------------------------
+2025-05-22 18:00:48.636768
+[+]molebox
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:1.66
+artificial.yarc
+	FPR:2.22
+	FNR:0
+	TDR:100
+	time:2.4
+autoyara_accessible.yarc
+	FPR:17.4
+	FNR:94.3
+	TDR:17.4
+	time:0.33
+DIE
+	FPR:0
+	FNR:100
+	TDR:0
+	time:57.14
+
+------------------------------
+2025-05-22 18:01:47.289853
+[+]winupack
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:0.27
+artificial.yarc
+	FPR:100
+	FNR:0
+	TDR:100
+	time:1.01
+autoyara_accessible.yarc
+	FPR:18.5
+	FNR:92.5
+	TDR:23.8
+	time:0.1
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:53.89
+
+------------------------------
+2025-05-22 18:02:43.429875
+[+]expressor
+packgenome_accessible.yarc
+	FPR:0
+	FNR:0
+	TDR:100
+	time:0.59
+artificial.yarc
+	FPR:0
+	FNR:100
+	TDR:0
+	time:1.44
+autoyara_accessible.yarc
+	FPR:38.8
+	FNR:90.4
+	TDR:38.8
+	time:0.18
+DIE
+	FPR:0
+	FNR:0
+	TDR:100
+	time:38.31
+
